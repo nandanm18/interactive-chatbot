@@ -34,9 +34,3 @@ An intelligent, interactive chatbot built using **Transformers**, **LangChain**,
 - Cohere API key
 - Streamlit
 
-### 📦 Installation
-
-```bash
-git clone https://github.com/nandanm18/your-chatbot-repo.git
-cd your-chatbot-repo
-pip install -r requirements.txt
